@@ -4,7 +4,7 @@
 
 #### Terraform stores resource information in a state file (terraform.tfstate) to track infrastructure changes.
 
-#### Steps to Configure S3 Static Website Hosting with Terraform
+### Steps to Configure S3 Static Website Hosting with Terraform
 
 ##### Ensure the S3 bucket exists (skip bucket creation if already created).
 ##### Set Public Access Block settings to allow public access.
